@@ -1,0 +1,7 @@
+build
+.west
+bootloader
+modules
+tools
+zephyr
+tmux_script
